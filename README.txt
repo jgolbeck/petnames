@@ -13,6 +13,9 @@ Below are the columns with instructions given to people who completed the form. 
 
 The data is tab separated.
 
+You can browse the data in a Google Sheet here
+https://docs.google.com/spreadsheets/d/1i146mrsrv9G9QVraQxjlNboDdfUFNUZI4rLD6EBgys8/edit?usp=sharing
+
 You are welcome to use, share, and edit this data, but please keep the text of this original README with it.
 
 If you use this data for any research, please cite as follows and also let Jen know because she'd be fascinated to read it: @jengolbeck on Twitter or jgolbeck@umd.edu
